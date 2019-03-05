@@ -1,0 +1,9 @@
+let firstName = "Brittany";
+let lastName = "Keith";
+let houseNumber = "14288";
+let street = "Orange Blossom trl.";
+let city = "Fishers";
+let state = "Indiana";
+let zipcode = "46038";
+
+console.log(firstName, lastName, houseNumber, street, city, state, zipcode);
